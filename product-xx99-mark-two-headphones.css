@@ -1,0 +1,19 @@
+.go__back__button {
+  margin: 2rem;
+}
+a,
+a:visited {
+  color: #929292;
+  text-decoration: none;
+}
+
+.product__image {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.product__image img {
+  max-width: 85%;
+  height: auto;
+  border-radius: 10px;
+}
